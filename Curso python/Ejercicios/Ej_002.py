@@ -23,4 +23,4 @@ print(f"La multiplicacion de {a} * {b} = {multi}")
 
 # Division
 
-print(f"La division de {a} / {b} = {div}") 
+print(f"La division de {a} / {b} = {div}")
